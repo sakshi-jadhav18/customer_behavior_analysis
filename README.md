@@ -95,7 +95,7 @@ Final recommendations
 📈 Results / Key Insights
 
 ## 📊 Dashboard Snapshot
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](dashboaard.png)
 
 Identified major drivers influencing performance
 
